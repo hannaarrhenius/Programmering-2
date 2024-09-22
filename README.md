@@ -9,5 +9,4 @@ The connections name and time do not need to be displayed on the map.
 The user can define new location by clicking "New place" button then selecting a point on the map.
 Already existing locations can by seleced by clicking on them which changes the color.
 To create a connnection the user selects two locations by clicking on them.
-Once selected they can define a connection between these locations, view or edit the connections details.
-Or they can print the route between the two locations.
+Once selected they can define a connection between these locations, view or edit the connections details, or print the route between the two locations.
